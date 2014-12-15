@@ -36,7 +36,8 @@ define( function( require ) {
       team: 'Jack Barbera, Suzanne Brahmia, Julia Chamberlain, Yuen-ying Carpenter,\n' +
             'Kelly Lancaster, Patricia Loeblein, Emily B. Moore, Ariel Paul, Robert Parson,\n' +
             'Ariel Paul, Kathy Perkins, Sharon Siman-Tov',
-      thanks: 'Conversion of this simulation to HTML5 was funded by the Royal Society of Chemistry.'
+      thanks: 'Royal Society of Chemistry.',
+      source: 'https://github.com/jgpATs2w/build-an-atom'
     }
   };
 
