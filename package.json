@@ -6,7 +6,7 @@
   "license": "GPLv3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phetsims/build-an-atom.git"
+    "url": "https://github.com/jgpATs2w/build-an-atom"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
